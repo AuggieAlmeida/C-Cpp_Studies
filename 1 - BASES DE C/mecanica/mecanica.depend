@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519421136 source:c:\users\gujax\desktop\my projectosos\mecanica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

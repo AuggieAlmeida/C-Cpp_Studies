@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529285694 source:c:\users\gujax\desktop\my projectosos\projeto paulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
